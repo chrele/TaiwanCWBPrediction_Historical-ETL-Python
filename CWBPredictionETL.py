@@ -13,7 +13,7 @@ import time
 pandas.options.mode.chained_assignment = None
 
 URL = 'https://opendata.cwb.gov.tw/api/v1/rest/datastore/'
-TOKEN = 'CWB-70B232C8-B4C3-4E74-B138-38E0A5EBDF73'
+TOKEN = '' #insert your API key
 
 if not os.path.exists('outputs/'):
   os.mkdir('outputs/')
