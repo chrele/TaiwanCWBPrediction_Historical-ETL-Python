@@ -1,0 +1,32 @@
+TaiwanCWBPrediction_Historical-ETL-Python
+ ┣documentation
+ ┃ ┗ API_Response.png
+ ┣outputs
+ ┃ ┣ Kaohsiung
+ ┃ ┃ ┣ 2days
+ ┃ ┃ ┃ ┣ result_Kaohsiung三民區2days.csv
+ ┃ ┃ ┃ ┣ . . .
+ ┃ ┃ ┗ 7days
+ ┃ ┃ ┃ ┣ result_Kaohsiung三民區7days.csv
+ ┃ ┃ ┃ ┣ . . .
+ ┃ ┣ Miaoli
+ ┃ ┃ ┣ 2days
+ ┃ ┃ ┃ ┣ result_Miaoli三灣鄉2days.csv
+ ┃ ┃ ┃ ┣ . . .
+ ┃ ┃ ┗ 7days
+ ┃ ┃ ┃ ┣ result_Miaoli三灣鄉7days.csv
+ ┃ ┃ ┃ ┣ . . .
+ ┃ ┗ Taipei
+ ┃ ┃ ┣ 2days
+ ┃ ┃ ┃ ┣ result_Taipei中山區2days.csv
+ ┃ ┃ ┃ ┣ . . .
+ ┃ ┃ ┗ 7days
+ ┃ ┃ ┃ ┣ result_Taipei中山區7days.csv
+ ┃ ┃ ┃ ┣ . . .
+ ┣ CWBPredictionETL.py
+ ┣ data.json
+ ┣ df_other3h.csv
+ ┣ file_structure
+ ┣ README.md
+ ┣ result.csv
+ ┗ test.txt
